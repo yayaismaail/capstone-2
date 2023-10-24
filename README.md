@@ -71,7 +71,7 @@ so that other developer's can find them or see what the have built.
 <!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
 
 ## 📹 Video Presentation <a name="video-presentation"></a>
-- Coming Soon
+
 - [Video Presentation](https://www.loom.com/share/8489447b36fb4be0ae7e317ae1e9e78e?sid=bed2b077-e524-453d-b1cf-44b2b071142f)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
