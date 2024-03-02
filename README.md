@@ -15,7 +15,8 @@ Movies
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [📹 Video Presentation ](#-video-presentation-)
+ - [🚀 Live-demo ](#-live-demo-)
+   - [📹 Video Presentation ](#-video-presentation-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -68,7 +69,7 @@ so that other developer's can find them or see what the have built.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+ ## 🚀 Live Demo <a name="live-demo"></a>
 -[Demo here](https://capstone-2-e2t7.onrender.com)
 
 ## 📹 Video Presentation <a name="video-presentation"></a>
